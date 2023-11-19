@@ -1,1 +1,1 @@
-# ReadWrite-files-in-C
+# Read & Write from simple text files in C
